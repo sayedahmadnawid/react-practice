@@ -1,0 +1,3 @@
+[submodule "Project-Management-App"]
+	path = Project-Management-App
+	url = https://github.com/sayedahmadnawid/Project-Management-App.git
